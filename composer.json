@@ -1,0 +1,18 @@
+{
+    "name": "devprecious/dbhelper",
+    "description": "Database Helper",
+    "autoload": {
+        "psr-4": {
+            "app\\": "."
+        }
+    },
+    "authors": [
+        {
+            "name": "Precious Oladele",
+            "email": "oladelep77@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "mp091689/dump-die": "^1.0"
+    }
+}
